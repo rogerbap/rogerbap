@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Roger Baptiste
+#  👋🏿 Hey there, I'm Roger Baptiste
 
 🧠 Software Engineer | 🍔 Foodie | 🏀 Hooper | 🎮 Gamer | 🧠 Security-first | 🛠️ Builder of scalable systems
 
