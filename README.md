@@ -36,7 +36,6 @@ I'm a software engineer and IT business analyst with 7+ years of experience in b
 
 - Making tech **approachable and secure**  
 - Building systems that scale and **look good doing it**  
-- Mentoring devs through **clarity, trust, and clean code**  
 - Exploring identity through **minimalist, anime-inspired branding**
 
 ---
