@@ -46,7 +46,7 @@ I'm a software engineer and IT business analyst with 7+ years of experience in b
 
 Whether you're building something big or refining something small, I’m always down to collaborate, troubleshoot, or brainstorm.  
 📫 [rogerbap@outlook.com]  
-🌐 [https://portfoliorogerb.vercel.app]
+🌐 <a href="https://portfoliorogerb.vercel.app" target="_blank">Visit My Portfolio</a>
 
 ---
 
