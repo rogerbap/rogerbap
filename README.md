@@ -1,7 +1,6 @@
 # 👋 Hey there, I'm Roger Baptiste
 
-🧠 Software Engineer | 🍔 Foodie | 🏀 Hooper | 🎮 Gamer
-📍 Kansas City, MO | 🧠 Security-first | 🛠️ Builder of scalable systems
+🧠 Software Engineer | 🍔 Foodie | 🏀 Hooper | 🎮 Gamer | 🧠 Security-first | 🛠️ Builder of scalable systems
 
 ---
 
@@ -45,7 +44,7 @@ I'm a software engineer and IT business analyst with 7+ years of experience in b
 ## 🗣️ Let's Connect
 
 Whether you're building something big or refining something small, I’m always down to collaborate, troubleshoot, or brainstorm.  
-📫 [rogerbap@outlook.com]  
+📫 <a href="mailto:rogerbap@outlook.com">Email Me</a>
 🌐 <a href="https://portfoliorogerb.vercel.app" target="_blank">Visit My Portfolio</a>
 
 ---
